@@ -1,4 +1,4 @@
-<h1>Hi, Philippe! <br/><a href="https://github.com/Philly60">Programmer</a>, <a href="https://www.linkedin.com/in/philippe-florexil-43ab61385/">Computet science student</a>
+<h1>Hi, I'm Philippe! <br/><a href="https://github.com/Philly60">Programmer</a>, <a href="https://www.linkedin.com/in/philippe-florexil-43ab61385/">Computet science student</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
